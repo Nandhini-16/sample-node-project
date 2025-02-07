@@ -2,7 +2,7 @@
 
 A Node.js project written using Express. EJS was used as the view engine.
 
-# Installation
+# Installation steps
 
 You need to write the following commands on the terminal screen so that you can run the project locally.
 
